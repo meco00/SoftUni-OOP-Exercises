@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.exe
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.deps.json
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.runtimeconfig.json
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.dll
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.pdb
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.AssemblyInfo.cs
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.dll
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.pdb
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\IteratorsAndComperatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComperatorsExercise.genruntimeconfig.cache

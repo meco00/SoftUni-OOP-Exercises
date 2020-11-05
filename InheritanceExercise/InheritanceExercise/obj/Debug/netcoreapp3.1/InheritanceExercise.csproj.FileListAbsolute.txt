@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.exe
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.deps.json
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.runtimeconfig.json
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.dll
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.pdb
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.AssemblyInfo.cs
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.dll
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.pdb
+C:\Users\Mert\source\repos\InheritanceExercise\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.genruntimeconfig.cache

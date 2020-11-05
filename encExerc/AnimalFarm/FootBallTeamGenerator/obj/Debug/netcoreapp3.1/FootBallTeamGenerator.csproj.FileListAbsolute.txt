@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\bin\Debug\netcoreapp3.1\FootBallTeamGenerator.exe
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\bin\Debug\netcoreapp3.1\FootBallTeamGenerator.deps.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\bin\Debug\netcoreapp3.1\FootBallTeamGenerator.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\bin\Debug\netcoreapp3.1\FootBallTeamGenerator.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\bin\Debug\netcoreapp3.1\FootBallTeamGenerator.dll
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\bin\Debug\netcoreapp3.1\FootBallTeamGenerator.pdb
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\obj\Debug\netcoreapp3.1\FootBallTeamGenerator.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\obj\Debug\netcoreapp3.1\FootBallTeamGenerator.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\obj\Debug\netcoreapp3.1\FootBallTeamGenerator.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\obj\Debug\netcoreapp3.1\FootBallTeamGenerator.dll
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\obj\Debug\netcoreapp3.1\FootBallTeamGenerator.pdb
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\FootBallTeamGenerator\obj\Debug\netcoreapp3.1\FootBallTeamGenerator.genruntimeconfig.cache

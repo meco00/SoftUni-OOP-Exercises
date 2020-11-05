@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache

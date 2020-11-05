@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.exe
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.deps.json
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.json
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.dll
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.pdb
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfo.cs
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.dll
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.pdb
+C:\Users\Mert\source\repos\IteratorsAndComperatorsExercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.genruntimeconfig.cache

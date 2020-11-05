@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp3.1\InheritanceLab.exe
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp3.1\InheritanceLab.deps.json
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp3.1\InheritanceLab.runtimeconfig.json
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp3.1\InheritanceLab.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp3.1\InheritanceLab.dll
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\bin\Debug\netcoreapp3.1\InheritanceLab.pdb
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp3.1\InheritanceLab.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp3.1\InheritanceLab.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp3.1\InheritanceLab.AssemblyInfo.cs
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp3.1\InheritanceLab.dll
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp3.1\InheritanceLab.pdb
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp3.1\InheritanceLab.genruntimeconfig.cache
+C:\Users\Mert\source\repos\InheritanceLab\InheritanceLab\obj\Debug\netcoreapp3.1\InheritanceLab.csprojAssemblyReference.cache

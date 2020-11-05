@@ -1,0 +1,13 @@
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache

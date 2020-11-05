@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

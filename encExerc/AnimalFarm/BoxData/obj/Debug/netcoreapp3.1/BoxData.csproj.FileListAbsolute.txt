@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\bin\Debug\netcoreapp3.1\BoxData.exe
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\bin\Debug\netcoreapp3.1\BoxData.deps.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\bin\Debug\netcoreapp3.1\BoxData.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\bin\Debug\netcoreapp3.1\BoxData.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\bin\Debug\netcoreapp3.1\BoxData.dll
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\bin\Debug\netcoreapp3.1\BoxData.pdb
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\obj\Debug\netcoreapp3.1\BoxData.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\obj\Debug\netcoreapp3.1\BoxData.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\obj\Debug\netcoreapp3.1\BoxData.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\obj\Debug\netcoreapp3.1\BoxData.dll
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\obj\Debug\netcoreapp3.1\BoxData.pdb
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\BoxData\obj\Debug\netcoreapp3.1\BoxData.genruntimeconfig.cache

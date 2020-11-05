@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\bin\Debug\netcoreapp3.1\TupleGenerics.exe
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\bin\Debug\netcoreapp3.1\TupleGenerics.deps.json
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\bin\Debug\netcoreapp3.1\TupleGenerics.runtimeconfig.json
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\bin\Debug\netcoreapp3.1\TupleGenerics.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\bin\Debug\netcoreapp3.1\TupleGenerics.dll
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\bin\Debug\netcoreapp3.1\TupleGenerics.pdb
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\obj\Debug\netcoreapp3.1\TupleGenerics.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\obj\Debug\netcoreapp3.1\TupleGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\obj\Debug\netcoreapp3.1\TupleGenerics.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\obj\Debug\netcoreapp3.1\TupleGenerics.AssemblyInfo.cs
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\obj\Debug\netcoreapp3.1\TupleGenerics.dll
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\obj\Debug\netcoreapp3.1\TupleGenerics.pdb
+C:\Users\Mert\source\repos\GenericsExercise\TupleGenerics\obj\Debug\netcoreapp3.1\TupleGenerics.genruntimeconfig.cache

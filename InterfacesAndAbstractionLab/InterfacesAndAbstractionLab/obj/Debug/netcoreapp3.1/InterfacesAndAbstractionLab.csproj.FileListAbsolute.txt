@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.exe
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.deps.json
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.runtimeconfig.json
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.dll
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\bin\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.pdb
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.AssemblyInfo.cs
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.dll
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.pdb
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.genruntimeconfig.cache
+C:\Users\Mert\source\repos\InterfacesAndAbstractionLab\InterfacesAndAbstractionLab\obj\Debug\netcoreapp3.1\InterfacesAndAbstractionLab.csprojAssemblyReference.cache

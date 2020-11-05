@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+D:\uni\programirane\softuni\OOPS\encExerc\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache

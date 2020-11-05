@@ -1,0 +1,13 @@
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache
+D:\uni\programirane\softuni\OOPS\inhExerc\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csprojAssemblyReference.cache

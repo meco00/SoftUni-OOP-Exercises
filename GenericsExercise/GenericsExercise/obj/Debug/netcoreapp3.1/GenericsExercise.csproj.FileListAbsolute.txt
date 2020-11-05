@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp3.1\GenericsExercise.exe
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp3.1\GenericsExercise.deps.json
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp3.1\GenericsExercise.runtimeconfig.json
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp3.1\GenericsExercise.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp3.1\GenericsExercise.dll
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\bin\Debug\netcoreapp3.1\GenericsExercise.pdb
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp3.1\GenericsExercise.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp3.1\GenericsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp3.1\GenericsExercise.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp3.1\GenericsExercise.AssemblyInfo.cs
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp3.1\GenericsExercise.dll
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp3.1\GenericsExercise.pdb
+C:\Users\Mert\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netcoreapp3.1\GenericsExercise.genruntimeconfig.cache
