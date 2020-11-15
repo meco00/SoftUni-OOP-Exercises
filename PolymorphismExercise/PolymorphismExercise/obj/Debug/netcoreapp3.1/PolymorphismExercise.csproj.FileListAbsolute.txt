@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.exe
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.deps.json
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.runtimeconfig.json
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.dll
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\PolymorphismExercise.pdb
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.AssemblyInfo.cs
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.dll
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.pdb
+C:\Users\Mert\source\repos\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\PolymorphismExercise.genruntimeconfig.cache

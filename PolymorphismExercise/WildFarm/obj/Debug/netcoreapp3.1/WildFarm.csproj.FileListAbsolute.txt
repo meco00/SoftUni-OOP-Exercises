@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.exe
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache
+C:\Users\Mert\source\repos\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csprojAssemblyReference.cache

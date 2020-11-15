@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\Mert\source\repos\PolymorphismLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

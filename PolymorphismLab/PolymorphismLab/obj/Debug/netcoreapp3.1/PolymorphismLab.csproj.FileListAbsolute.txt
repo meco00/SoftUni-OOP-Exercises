@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\netcoreapp3.1\PolymorphismLab.exe
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\netcoreapp3.1\PolymorphismLab.deps.json
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\netcoreapp3.1\PolymorphismLab.runtimeconfig.json
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\netcoreapp3.1\PolymorphismLab.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\netcoreapp3.1\PolymorphismLab.dll
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\bin\Debug\netcoreapp3.1\PolymorphismLab.pdb
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\netcoreapp3.1\PolymorphismLab.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\netcoreapp3.1\PolymorphismLab.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\netcoreapp3.1\PolymorphismLab.AssemblyInfo.cs
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\netcoreapp3.1\PolymorphismLab.dll
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\netcoreapp3.1\PolymorphismLab.pdb
+C:\Users\Mert\source\repos\PolymorphismLab\PolymorphismLab\obj\Debug\netcoreapp3.1\PolymorphismLab.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.exe
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.deps.json
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csprojAssemblyReference.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.genruntimeconfig.cache

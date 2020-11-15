@@ -1,0 +1,13 @@
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
+C:\Users\Mert\source\repos\PolymorphismLab\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache

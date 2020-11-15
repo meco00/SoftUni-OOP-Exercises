@@ -1,0 +1,13 @@
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.exe
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.deps.json
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\bin\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csprojAssemblyReference.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.dll
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.pdb
+D:\uni\programirane\softuni\OOPS\SolidLab\Lab-Skeleton\P01.Stream_Progress\obj\Debug\netcoreapp3.1\P01.Stream_Progress.genruntimeconfig.cache
