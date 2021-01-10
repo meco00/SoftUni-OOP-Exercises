@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache

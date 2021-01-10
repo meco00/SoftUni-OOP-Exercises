@@ -1,0 +1,13 @@
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\obj\Debug\netcoreapp3.1\INStock.csprojAssemblyReference.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+D:\uni\programirane\softuni\OOPS\UNITtesting\TDD\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache

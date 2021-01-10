@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\PolymorphismExercise\\PolymorphismExercise.csproj",
+      "projectUniqueName": "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\PolymorphismExercise\\PolymorphismExercise.csproj",
       "projectName": "PolymorphismExercise",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\PolymorphismExercise\\PolymorphismExercise.csproj",
+      "projectPath": "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\PolymorphismExercise\\PolymorphismExercise.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\PolymorphismExercise\\obj\\",
+      "outputPath": "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\PolymorphismExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",

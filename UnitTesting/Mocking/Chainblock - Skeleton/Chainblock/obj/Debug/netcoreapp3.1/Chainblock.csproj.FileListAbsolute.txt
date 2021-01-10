@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.exe
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.deps.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.dll
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.pdb
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.dll
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.pdb
+D:\uni\programirane\softuni\OOPS\UNITtesting\Mocking\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.genruntimeconfig.cache

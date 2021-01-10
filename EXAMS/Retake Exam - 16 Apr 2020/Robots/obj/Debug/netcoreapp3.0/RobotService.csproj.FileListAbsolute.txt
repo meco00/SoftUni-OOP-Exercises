@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\New folder\bin\Debug\netcoreapp3.0\RobotService.exe
+D:\uni\programirane\softuni\OOPS\New folder\bin\Debug\netcoreapp3.0\RobotService.deps.json
+D:\uni\programirane\softuni\OOPS\New folder\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\New folder\bin\Debug\netcoreapp3.0\RobotService.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\New folder\bin\Debug\netcoreapp3.0\RobotService.dll
+D:\uni\programirane\softuni\OOPS\New folder\bin\Debug\netcoreapp3.0\RobotService.pdb
+D:\uni\programirane\softuni\OOPS\New folder\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\New folder\obj\Debug\netcoreapp3.0\RobotService.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\New folder\obj\Debug\netcoreapp3.0\RobotService.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\New folder\obj\Debug\netcoreapp3.0\RobotService.dll
+D:\uni\programirane\softuni\OOPS\New folder\obj\Debug\netcoreapp3.0\RobotService.pdb
+D:\uni\programirane\softuni\OOPS\New folder\obj\Debug\netcoreapp3.0\RobotService.genruntimeconfig.cache

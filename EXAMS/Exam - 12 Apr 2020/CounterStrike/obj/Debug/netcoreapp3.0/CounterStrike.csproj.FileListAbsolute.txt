@@ -1,0 +1,13 @@
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.genruntimeconfig.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache

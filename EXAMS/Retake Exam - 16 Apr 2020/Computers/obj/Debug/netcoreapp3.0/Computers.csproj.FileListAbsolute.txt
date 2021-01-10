@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\bin\Debug\netcoreapp3.0\Computers.exe
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\bin\Debug\netcoreapp3.0\Computers.deps.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\bin\Debug\netcoreapp3.0\Computers.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\bin\Debug\netcoreapp3.0\Computers.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\obj\Debug\netcoreapp3.0\Computers.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\obj\Debug\netcoreapp3.0\Computers.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\obj\Debug\netcoreapp3.0\Computers.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Computers\obj\Debug\netcoreapp3.0\Computers.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\uni\programirane\softuni\OOPS\UNITtesting\Exercise\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\Exercise\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\uni\programirane\softuni\OOPS\UNITtesting\Exercise\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\uni\programirane\softuni\OOPS\UNITtesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\UNITtesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\uni\programirane\softuni\OOPS\UNITtesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.pdb
+D:\uni\programirane\softuni\OOPS\UNITtesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache

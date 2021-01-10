@@ -1,0 +1,13 @@
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\uni\programirane\softuni\OOPS\UNITtesting\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

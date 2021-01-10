@@ -1,0 +1,25 @@
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam - 16 August 2020\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache

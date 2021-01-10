@@ -1,0 +1,13 @@
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache

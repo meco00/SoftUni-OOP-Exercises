@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\WildFarm\\WildFarm.csproj": {}
+    "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\WildFarm\\WildFarm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\WildFarm\\WildFarm.csproj": {
+    "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\WildFarm\\WildFarm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
+        "projectUniqueName": "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
         "projectName": "WildFarm",
-        "projectPath": "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
+        "projectPath": "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\WildFarm\\WildFarm.csproj",
         "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\WildFarm\\obj\\",
+        "outputPath": "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\WildFarm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",

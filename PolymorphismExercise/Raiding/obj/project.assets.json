@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\Raiding\\Raiding.csproj",
+      "projectUniqueName": "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\Raiding\\Raiding.csproj",
       "projectName": "Raiding",
-      "projectPath": "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\Raiding\\Raiding.csproj",
+      "projectPath": "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\Raiding\\Raiding.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mert\\source\\repos\\PolymorphismExercise\\Raiding\\obj\\",
+      "outputPath": "D:\\uni\\programirane\\softuni\\OOPS\\OOP-repo\\reposOOP\\PolymorphismExercise\\Raiding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",

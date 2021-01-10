@@ -1,0 +1,12 @@
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.exe
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.dll
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.dll
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+D:\uni\programirane\softuni\OOPS\SolidLab\ReflectionExer\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.1\CommandPattern.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+D:\uni\programirane\softuni\OOPS\ExamPreparation\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\ExamPreparation\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

@@ -1,0 +1,25 @@
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\uni\programirane\softuni\OOPS\ExamPreparation\Retake Exam - 22 August 2020\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache
